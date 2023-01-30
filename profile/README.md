@@ -1,4 +1,4 @@
-![Nationale Forschungsdateninfrastruktur (NFDI)](https://github.com/nfdi-de/.github/blob/main/nfdi-logo_600px.png)
+![Nationale Forschungsdateninfrastruktur (NFDI)](https://github.com/nfdi-de/.github/blob/main/profile/images/nfdi-logo_600px.png)
 
 # Welcome to NFDI on GitHub!
 

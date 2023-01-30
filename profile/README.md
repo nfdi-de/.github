@@ -2,6 +2,9 @@
 
 # Welcome to NFDI on GitHub!
 
-Here is a list of NFDI-projects on GitHub:
-* NFDI4Cat: https://github.com/nfdi4cat
+### NFDI consortia on GitHub
+* [NFDI4Cat](https://github.com/nfdi4cat)
 * 
+
+### see also
+* [NFDI on GitLab](https://gitlab.com) 

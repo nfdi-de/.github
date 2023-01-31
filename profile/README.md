@@ -10,4 +10,4 @@
 * [NFDI4Plants](https://github.com/nfdi4plants)
 
 ### see also
-* [NFDI on GitLab](https://gitlab.com) 
+* [NFDI on GitLab](https://gitlab.com/nfdi-de/nfdi-de/-/blob/main/README.md) 

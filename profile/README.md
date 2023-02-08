@@ -9,7 +9,7 @@
 * [NFDI4Culture](https://github.com/NFDI4Culture)
 * [NFDI4Plants](https://github.com/nfdi4plants)
 * [NFDI4Microbiota](https://github.com/NFDI4Microbiota/)
-  * [Knowledge Base](https://github.com/NFDI4Microbiota/nfdi4microbiota-knowledge-base)
+  * [The NFDI4Microbiota Knowledge Base](https://github.com/NFDI4Microbiota/nfdi4microbiota-knowledge-base)
 
 ### see also
 * [NFDI on GitLab](https://gitlab.com/nfdi-de/nfdi-de/-/blob/main/README.md) 

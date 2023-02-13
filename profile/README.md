@@ -9,7 +9,7 @@
 * [GHGA](https://github.com/ghga-de) 
 * [NFDI4Health](https://github.com/NFDI4health)
 * [NFDI4Microbiota](https://github.com/NFDI4Microbiota/)
-  * [The NFDI4Microbiota Knowledge Base](https://github.com/NFDI4Microbiota/nfdi4microbiota-knowledge-ba
+  * [The NFDI4Microbiota Knowledge Base](https://github.com/NFDI4Microbiota/nfdi4microbiota-knowledge-base]
 * [NFDI4Plants](https://github.com/nfdi4plants)
 
 ### see also

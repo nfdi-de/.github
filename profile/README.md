@@ -3,7 +3,7 @@
 # Welcome to NFDI on GitHub!
 
 ### NFDI consortia on GitHub
-* [NFDI4BIOIMAGE](https://github.com/nfdI4BIOIMAGE/)
+* [NFDI4BIOIMAGE](https://github.com/NFDI4BIOIMAGE/)
 * [NFDI4Cat](https://github.com/nfdi4cat)
 * [NFDI4Chem](https://github.com/NFDI4Chem)
 * [NFDI4Culture](https://github.com/NFDI4Culture)

@@ -3,6 +3,7 @@
 # Welcome to NFDI on GitHub!
 
 ### NFDI consortia on GitHub
+* [MaRDI4NFDI](https://github.com/MaRDI4NFDI)
 * [NFDI4Cat](https://github.com/nfdi4cat)
 * [NFDI4Chem](https://github.com/NFDI4Chem)
 * [NFDI4Culture](https://github.com/NFDI4Culture)

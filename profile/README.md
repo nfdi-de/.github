@@ -12,6 +12,7 @@
   * [The NFDI4Microbiota Knowledge Base](https://github.com/NFDI4Microbiota/nfdi4microbiota-knowledge-base)
 * [NFDI4Plants](https://github.com/nfdi4plants)
 * [MaRDI4NFDI](https://github.com/MaRDI4NFDI)
+* [NFDI4DataScience](https://github.com/NFDI4DS)
 
 ### see also
 * [NFDI on GitLab](https://gitlab.com/nfdi-de/nfdi-de/-/blob/main/README.md) 

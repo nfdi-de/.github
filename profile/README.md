@@ -14,6 +14,7 @@
 * [MaRDI4NFDI](https://github.com/MaRDI4NFDI)
 * [NFDI4DataScience](https://github.com/NFDI4DS)
 * [Base4NFDI](https://github.com/base4nfdi)
+* [FAIRmat](https://github.com/FAIRmat-NFDI )
 
 ### see also
 * [NFDI on GitLab](https://gitlab.com/nfdi-de/nfdi-de/-/blob/main/README.md) 

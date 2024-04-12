@@ -18,3 +18,4 @@
 
 ### see also
 * [NFDI on GitLab](https://gitlab.com/nfdi-de/nfdi-de/-/blob/main/README.md) 
+* [NFDI4Biodiversity](https://github.com/nfdi4biodiversity )

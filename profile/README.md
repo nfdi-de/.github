@@ -15,7 +15,8 @@
 * [NFDI4DataScience](https://github.com/NFDI4DS)
 * [Base4NFDI](https://github.com/base4nfdi)
 * [FAIRmat](https://github.com/FAIRmat-NFDI )
+* [NFDI4Biodiversity](https://github.com/nfdi4biodiversity )
 
 ### see also
 * [NFDI on GitLab](https://gitlab.com/nfdi-de/nfdi-de/-/blob/main/README.md) 
-* [NFDI4Biodiversity](https://github.com/nfdi4biodiversity )
+

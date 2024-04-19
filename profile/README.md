@@ -19,6 +19,7 @@
 * [BERD-NFDI]( https://github.com/BERD-NFDI)
 * [FAIRagro](https://github.com/fairagro/)
 * [NFDI4Objects](https://github.com/nfdi4objects)
+* [NFDI4Energy](https://github.com/nfdi4energy)
 
 ### see also
 * [NFDI on GitLab](https://gitlab.com/nfdi-de/nfdi-de/-/blob/main/README.md) 
